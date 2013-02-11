@@ -14,7 +14,7 @@ Include Google Remarketing Ad Codes on a per page or post basis. There is also a
 
 Allows you to specify a default Google Display Network Remarketing tracking code to your entire site. You can then override that code on a per post/page/custom_post_type basis. 
 
-Basic structure taken from the Adwords-Remarketing plugin, but added much needed default behavior and settings. http://wordpress.org/extend/plugins/adwords-remarketing/
+Basic structure taken from the Adwords-Remarketing plugin, but added much needed default behavior and settings.
 
 Please use the support section with any problems or ideas you have for this plugin. Thanks!
 
