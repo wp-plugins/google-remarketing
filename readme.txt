@@ -8,6 +8,8 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+Include Google Remarketing Ad Codes on a per page or post basis. There is also a spot for a default code.
+
 == Description ==
 
 Allows you to specify a default Google Display Network Remarketing tracking code to your entire site. You can then override that code on a per post/page/custom_post_type basis. 
