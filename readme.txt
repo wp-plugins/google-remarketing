@@ -16,7 +16,9 @@ Allows you to specify a default Google Display Network Remarketing tracking code
 
 Basic structure taken from the Adwords-Remarketing plugin, but added some much needed default behavior and some settings.
 
-http://wordpress.org/extend/plugins/adwords-remarketing/
+Found Here: http://wordpress.org/extend/plugins/adwords-remarketing/
+
+Please use the support section with any problems or ideas you have for this plugin. Thanks!
 
 == Installation ==
 
@@ -24,7 +26,6 @@ http://wordpress.org/extend/plugins/adwords-remarketing/
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Navigate to 'Settings' -> 'Google Remarketing' to specify a default tracking code and which post types you want to be able to override.
 1. When you are adding or editing pages you will now have a new meta box to enter a custom pixel for that page.
-
 
 == Screenshots ==
 
