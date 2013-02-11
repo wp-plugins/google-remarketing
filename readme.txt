@@ -31,8 +31,8 @@ Please use the support section with any problems or ideas you have for this plug
 == Screenshots ==
 
 1. Setting Page
-2. New meta box that shows on the add/edit forms
-3. View source of the embed
+1. New meta box that shows on the add/edit forms
+1. View source of the embed
 
 
 == Changelog ==
