@@ -10,6 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Easily add Google Remarketing tracking pixels to your website.
 
+
 == Description ==
 
 Allows you to specify a default Google Display Network Remarketing tracking code to your entire site. You can then override that code on a per post/page/custom_post_type basis. 
@@ -20,6 +21,7 @@ Found Here: http://wordpress.org/extend/plugins/adwords-remarketing/
 
 Please use the support section with any problems or ideas you have for this plugin. Thanks!
 
+
 == Installation ==
 
 1. Add plugin to the `/wp-content/plugins/` directory
@@ -27,11 +29,13 @@ Please use the support section with any problems or ideas you have for this plug
 1. Navigate to 'Settings' -> 'Google Remarketing' to specify a default tracking code and which post types you want to be able to override.
 1. When you are adding or editing pages you will now have a new meta box to enter a custom pixel for that page.
 
+
 == Screenshots ==
 
 1. Setting Page
 2. New meta box that shows on the add/edit forms
 3. View source of the embed
+
 
 == Changelog ==
 
