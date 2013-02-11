@@ -16,7 +16,6 @@ Basic structure taken from the Adwords-Remarketing plugin, but added much needed
 
 Please use the support section with any problems or ideas you have for this plugin. Thanks!
 
-
 == Installation ==
 
 1. Add plugin to the `/wp-content/plugins/` directory
@@ -24,7 +23,11 @@ Please use the support section with any problems or ideas you have for this plug
 1. Navigate to 'Settings' -> 'Google Remarketing' to specify a default tracking code and which post types you want to be able to override.
 1. When you are adding or editing pages you will now have a new meta box to enter a custom pixel for that page.
 
+== Screenshots ==
 
+1. Setting Page.
+2. New meta box that shows on the add/edit forms.
+3. View source of the embed.
 
 == Changelog ==
 
