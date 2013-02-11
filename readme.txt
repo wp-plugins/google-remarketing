@@ -25,11 +25,6 @@ Please use the support section with any problems or ideas you have for this plug
 1. When you are adding or editing pages you will now have a new meta box to enter a custom pixel for that page.
 
 
-== Screenshots ==
-
-1. Setting Page.
-2. New meta box that shows on the add/edit forms.
-3. View source of the embed.
 
 == Changelog ==
 
