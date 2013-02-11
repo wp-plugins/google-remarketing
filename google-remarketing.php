@@ -4,7 +4,7 @@ Plugin Name: Google Remarketing Codes
 Plugin URI: http://seosalespro.com
 Description: Include Google Remarketing Ad Codes on a per page or post basis. There is also a spot for a default code.
 Author: Hal Gatewood (OPUBCO)
-Version: 1.0
+Version: 1.1
 Author URI: http://www.halgatewood.com
 License: GPL2
 
@@ -28,6 +28,9 @@ class wpGoogleRemarketing
 		// ADMIN STUFF
 		if ( is_admin() )
 		{
+			$plugin = plugin_basename(__FILE__); 
+			add_filter("plugin_action_links_$plugin", array( &$this, 'googleremarketing_settings_link' ) );		
+		
 			add_action(	'add_meta_boxes', 	array( &$this, 'add_googleremarketing_meta_box' ));
 			add_action(	'save_post', 		array( &$this, 'save_googleremarketing_meta_box_content' ));
 			
@@ -38,6 +41,15 @@ class wpGoogleRemarketing
 		{
 			add_action(	'wp_footer', 		array( &$this,'embed_googleremarketing_meta_box_content' ), 100);
 		}
+	}
+	
+	
+	// SETTINGS LINK ON PLUGIN PAGE
+	function googleremarketing_settings_link($links) 
+	{ 
+	  $settings_link = '<a href="options-general.php?page=googleremarketing">Settings</a>'; 
+	  array_unshift($links, $settings_link); 
+	  return $links; 
 	}
 	
 	

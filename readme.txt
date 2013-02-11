@@ -37,5 +37,8 @@ Please use the support section with any problems or ideas you have for this plug
 
 == Changelog ==
 
+= 1.1 =
+* Settings link on plugin page
+
 = 1.0 =
 * Initial load of the plugin.
