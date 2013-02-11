@@ -8,9 +8,6 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily add Google Remarketing tracking pixels to your website.
-
-
 == Description ==
 
 Allows you to specify a default Google Display Network Remarketing tracking code to your entire site. You can then override that code on a per post/page/custom_post_type basis. 
@@ -31,7 +28,9 @@ Please use the support section with any problems or ideas you have for this plug
 == Screenshots ==
 
 1. Setting Page.
+
 2. New meta box that shows on the add/edit forms.
+
 3. View source of the embed.
 
 
