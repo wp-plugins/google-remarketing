@@ -1,7 +1,7 @@
 === Google Remarketing ===
 Contributors: halgatewood
 Donate link: http://halgatewood.com/
-Tags:  ads, advertising, adwords, google, re-marketing, remarketing, retargeting, targeting, tracking
+Tags:  ads, advertising, adwords, google, re-marketing, remarketing, retargeting, targeting, tracking, google retargeting, google ads, google remarketing ads, google retargeting ads
 Requires at least: 3.5
 Tested up to: 3.5
 Stable tag: trunk
