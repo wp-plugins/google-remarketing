@@ -3,7 +3,7 @@ Contributors: halgatewood
 Donate link: http://halgatewood.com/
 Tags:  ads, advertising, adwords, google, re-marketing, remarketing, retargeting, targeting, tracking, google retargeting, google ads, google remarketing ads, google retargeting ads
 Requires at least: 3.5
-Tested up to: 3.5
+Tested up to: 3.6
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
