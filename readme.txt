@@ -16,8 +16,6 @@ Allows you to specify a default Google Display Network Remarketing tracking code
 
 Basic structure taken from the Adwords-Remarketing plugin, but added much needed default behavior and settings.
 
-Please use the support section with any problems or ideas you have for this plugin. Thanks!
-
 == Screenshots ==
 
 1. Setting Page.
