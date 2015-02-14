@@ -1,20 +1,20 @@
 === Google Remarketing ===
 Contributors: halgatewood
-Donate link: http://halgatewood.com/
+Donate link: http://halgatewood.com/donate
 Tags:  ads, advertising, adwords, google, re-marketing, remarketing, retargeting, targeting, tracking, google retargeting, google ads, google remarketing ads, google retargeting ads
 Requires at least: 3.5
-Tested up to: 3.5
+Tested up to: 4.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Include Google Remarketing Ad Codes on a per page or post basis. There is also a spot for a default code.
 
 == Description ==
 
 Allows you to specify a default Google Display Network Remarketing tracking code to your entire site. You can then override that code on a per post/page/custom_post_type basis. 
 
-Basic structure taken from the Adwords-Remarketing plugin, but added much needed default behavior and settings. http://wordpress.org/extend/plugins/adwords-remarketing/
-
-Please use the support section with any problems or ideas you have for this plugin. Thanks!
+Basic structure taken from the Adwords-Remarketing plugin, but added much needed default behavior and settings.
 
 == Screenshots ==
 
